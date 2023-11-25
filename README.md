@@ -10,7 +10,7 @@ Steps to Launch Emitrr Language Learning Game
 5. Open Client Folder and launch terminal and type
    (a) npm i
    (b) npm start
-The Language Learning Game launched successfully.
+6. The Language Learning Game launched successfully.
 
    
    
