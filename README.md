@@ -5,11 +5,11 @@ Steps to Launch Emitrr Language Learning Game
    git clone https://github.com/AmarNathPrajapati/Language_Learning_game
 3. Open Language_Learning_game folder
 4. Open Server Folder and launch terminal and type
-   npm i
-   npm start
+   i) npm i
+   ii) npm start
 5. Open Client Folder and launch terminal and type
-   npm i
-   npm start
+   i) npm i
+   ii) npm start
 The Language Learning Game launched successfully.
 
    
